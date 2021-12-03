@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1536 1540" style="enable-background:new 0 0 1536 1540;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FF9E18;}
+	.st1{fill:#FFC033;}
+	.st2{fill:none;stroke:#F0D283;stroke-width:5.7126;stroke-miterlimit:10;}
+	.st3{fill:#F3B500;}
+	.st4{fill:#ED1C24;}
+	.st5{fill:#00A9AA;}
+	.st6{fill:#205A99;}
+	.st7{fill:#463D94;}
+	.st8{fill:#333333;}
+	.st9{clip-path:url(#SVGID_00000170998421729977744940000012537473658854059914_);}
+	.st10{fill:#FEE99B;}
+	.st11{fill:#F5D93F;}
+	.st12{fill:#F3C242;}
+	.st13{clip-path:url(#SVGID_00000036949034624440831430000000827154652597196953_);}
+</style>
+<g id="Dispositivo">
+</g>
+<g id="Pantalla">
+	<g>
+		<defs>
+			<rect id="SVGID_00000179607002459891697620000011640879654963367832_" y="2" width="1536" height="1536"/>
+		</defs>
+		<clipPath id="SVGID_00000114056704459178569560000011179839297023241859_">
+			<use xlink:href="#SVGID_00000179607002459891697620000011640879654963367832_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_00000114056704459178569560000011179839297023241859_);">
+			<path class="st10" d="M838.78,1645.67h-1536v-416.94c545.99-277.23,1055.52-257.04,1536,0V1645.67z"/>
+			<path class="st11" d="M2576.56,1562.85h-1536v-416.94c545.99-277.23,1055.52-257.04,1536,0V1562.85z"/>
+			<path class="st12" d="M1536,1736.78H0v-450.02c545.99-299.23,1055.52-277.44,1536,0V1736.78z"/>
+			<path class="st3" d="M1536,1764.64H0v-440.33c545.99-292.78,1055.52-271.46,1536,0V1764.64z"/>
+		</g>
+	</g>
+</g>
+</svg>

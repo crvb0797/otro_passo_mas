@@ -1,0 +1,52 @@
+@font-face {
+    font-family: "Mont";
+    src: url(./asset/fuentes/Mont-Regular.otf);
+    src: url(./asset/fuentes/Mont-bold.otf);
+    src: url(./asset/fuentes/Mont-SemiBold.otf);
+    }
+
+/* 463d94 */
+
+
+
+body{
+    font-family:'Mont' !important;
+}
+.bg-orange{
+    background-color: #F39D3E;
+    border-left: 30px solid #F8c146;
+}
+
+.box{
+    border-bottom: 10px solid #F8c146;
+    width: 40rem;   
+}
+
+.img{
+    width: 43.75rem;
+    
+}
+
+.coming-soon{
+    color: #ed1c24;
+}
+
+.date{
+    color: #463d94;
+}
+
+
+/* RESPONSIVE */
+@media screen and (max-width: 640px) { 
+    .bg-orange{
+        background-color: #F39D3E;
+        border-top: 18px solid #F8c146;
+        border-left: 0;
+
+    }
+    
+    .box{
+        border-bottom: 5px solid #F8c146;
+        width: 20rem;   
+    }
+}
